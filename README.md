@@ -1,7 +1,7 @@
 # Complexity
 ## Solution in C++
 
-```cpp
+```
 What is time complexity of following code :
 
         int count = 0;
