@@ -1,5 +1,5 @@
 # Complexity
-## Solution in C++
+## Code Snippet in C++
 
 ```cpp
 What is time complexity of following code :
