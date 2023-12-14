@@ -29,6 +29,7 @@ void print(){
     }
     cout<<"\n";
 }
+
 void reverse_print(){
     
     int siz=back.size();
