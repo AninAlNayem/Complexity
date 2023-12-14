@@ -9,6 +9,8 @@ Operation 2: An integer $`\ X `$ and a lowercase English letter $`\ C `$​ are 
 if X=1 : Add C on the begining of the string $`\ S `$<br/>
 if X=2 : Add C to the end of the string $`\ S `$
 
+Print the final string.
+
 #### Code in CPP
 ```cpp
 #include <bits/stdc++.h>
