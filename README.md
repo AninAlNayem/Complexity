@@ -19,5 +19,5 @@ What is time complexity of following code :
 You are given a string $`\ S `$ consisting of lowercase English letters. You have to perform this two types of operation on this string several times.
 Operation 1: Reverse the string $`\ S `$ <br/>
 Operation 2: An integer $`\ X `$ and a lowercase English letter $`\ C `$​ are additionally provided for this type of operation:   
-if X=1 : Add C on the begining of the string $`\ S `$ <br/>    
+if X=1 : Add C on the begining of the string $`\ S `$ 
 if X=2 : Add C to the end of the string $`\ S `$
